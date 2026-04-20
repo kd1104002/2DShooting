@@ -193,6 +193,8 @@ public:
 	//ƒŠƒZƒbƒg
 	void RESET();
 
+	int test = 0;
+
 
 private:
 
